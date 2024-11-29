@@ -16,9 +16,9 @@ document.getElementById("loginForm")?.addEventListener("submit", (e) => {
 
 // Display products on the home page
 const products = [
-    { id: 1, name: "Product 1", description: "Description of Product 1" },
-    { id: 2, name: "Product 2", description: "Description of Product 2" },
-    { id: 3, name: "Product 3", description: "Description of Product 3" },
+    { id: 1, name: "Clock", description: "A vintage watch. You can check it out on this provie link: imageaddressofwatchwouldbehere" },
+    { id: 2, name: "Lamp", description: "A beautiful and mordern. You can check it out on this provie link: imageaddressofwatchwouldbehere" },
+    { id: 3, name: "Uncharted 4", description: "Game is in Good condition. You can check it out on this provie link: imageaddressofwatchwouldbehere" },
 ];
 
 function displayProducts() {
